@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwinf compponents;
+@tailwind utilities;
+
+
+#uno{
+    background-color: rgb(204, 204, 255);
+}
+#dos{
+    background-color: cornflowerblue;
+}
+#tres{
+    text-color: white
+}
+
